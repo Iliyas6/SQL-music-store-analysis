@@ -75,12 +75,6 @@ Below is the schema diagram representing the relationships among all tables.
 📌 Full Database Schema
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1a4f50b6-59b9-4d1b-b986-627841e0750c" />
 
-
-
-📌 Table Relationship Diagram
-<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/616cde94-3e4e-45d4-a9af-f63d03482fbf" />
-
-
 📊 Business Questions Solved in This Project
 
 This project answers more than 15+ analytical SQL questions, such as:
@@ -150,7 +144,7 @@ Check the PDF file for question descriptions.
 
 View schema diagrams in the SQL Schema & Diagram folder.
 
-📚 Key Files
+📚Key Files
 File / Folder	Purpose
 Excel Raw Data	Original dataset files
 Music_Store_database.sql	Database creation + insert statements
@@ -159,6 +153,6 @@ SQL Schema & Diagram	ER diagram and schema images
 Music Store Analysis Questions.pdf	Business questions
 Notes / Documentation Folder	Explanations & notes
 
-⭐ Author
+⭐Author
 Mohammed Iliyas
 Engineer | Data Analyst | SQL | Power BI | Python
