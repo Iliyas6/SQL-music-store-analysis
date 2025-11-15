@@ -76,7 +76,8 @@ Below is the schema diagram representing the relationships among all tables.
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1a4f50b6-59b9-4d1b-b986-627841e0750c" />
 
 📌 Table Relationship Diagram
-<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/d9c15017-dcba-423c-93f9-edce87532d10" />
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/616cde94-3e4e-45d4-a9af-f63d03482fbf" />
+
 
 📊 Business Questions Solved in This Project
 
